@@ -1,0 +1,11 @@
+The first line of our program
+
+#include <iostream>
+
+tells the compiler that we want to use the iostream library. The name
+inside angle brackets (iostream in this case) refers to a header. Every
+program that uses a library facility must include its associated header.
+The #include directive must be written on a single line—the name of the
+header and the #include must appear on the same line. In general,
+#include directives must appear outside any function. Typically, we put all
+the #include directives for a program at the beginning of the source file.

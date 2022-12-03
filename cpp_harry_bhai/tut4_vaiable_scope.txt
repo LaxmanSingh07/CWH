@@ -1,0 +1,55 @@
+//A variable is a container to hold dat 
+variabl can e of variouos types. Primarily we have these varaible types in cpp
+1. int 
+2. float 
+3 char 
+4. doubel 
+4. boolean
+
+//basic syntax : Data_type variable_name=Value;
+
+ex: int a=10;
+. Based on Scope, variable can be classifed into two types :
+1. Local variable
+2. Global varaible
+
+/* Scope of a variable is the region in code there teh esitence of variable is valid.
+Based on Scope we have local and glaobal variables in cpp
+Local varaible: 
+local varaible are delcared inside the braces of any fucntio and can be accessed only from there
+Global varaible: 
+are delcared outside any fucntion and can be accessed only from anywhere
+
+
+can glaobal and local variable have same name in cpp? yes 
+
+
+
+//CPP DATA types 
+data types define the type of data a varaible can hold, for example an integer vaible can hold integer data, a characterf type variable can hold character data etc.
+dat types in cpp are atergorised in three groups :
+.Built-in
+.User-defined
+.Derived 
+
+
+
+Built in data type 
+1.int ,2.float 3.char ,4. doubel, 5. boolean
+
+userdefined data types 
+1. struct 2. enum 3. union
+
+
+Derived data types :
+1. Array fucntion and pointer 
+
+
+// rules for declaring vaible name 
+
+1. variable name in cpp can range form 1 to 255
+2. all variable name must begin with a letter of the aphabet or an underscore_
+3. after the first initial letter, variable names can also contain letters and numbers 
+4. variable_name is case senistive 
+5. No spaces or specail characgers are allowed 
+6. you can't use a c++ keyword as a varaible name 

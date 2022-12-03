@@ -1,0 +1,7 @@
+// TEMPLET IN CPP 
+//CLASS ---> OBJECT 
+// FOR OBJECT CLASS IS A template
+// template --> class
+// for class templte is template
+
+ 

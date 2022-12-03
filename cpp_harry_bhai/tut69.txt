@@ -1,0 +1,21 @@
+// THE C++ STANDARD TEMPLATE LIBRARY (STL) CPP TUTORIALS 
+
+//Introudction to STL -------> Competitive Programming 
+
+// STL ----> standard template library
+// library of what?  ----> Generic Classes and fucntions 
+
+why use STL ----> Reuse: Well tested Components 
+                time saving
+
+
+Components of STL ---> 
+        1.Containers ---> an object which store data (vector)-------> it uses template Classes 
+
+        2.Algorithm ---->sorting,searching
+        3. Iterators ------>object points to an element t
+        handled just like pointers 
+        connect algoritham with Containers
+        STL IS used because its a good idea not to reinvent the wheel
+
+

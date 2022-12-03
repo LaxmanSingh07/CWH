@@ -1,0 +1,24 @@
+// types of containers in _stdcall
+// 1. Sequence Containers  ---> inear fashion
+// 2. Associative Conatiners----> DiRECT access // it stores data in tree form set ,multiset,map,multimap
+// 3. Derived Containers--->REAL WORLD MODELLING QUEUE ,STACK
+
+
+when to use which 
+
+Sequence containers 
+
+1. vector  ---> insertion and del ---> slow 
+insertion at the end ===fast;
+
+
+2. list --> random access slow 
+        insertion in the middle is fast 
+        as compare to that of array and vector 
+        insertion at the last is also fast 
+
+Associative containers:
+    All operateion fast 
+    except random access 
+
+Derived containers ---> Depends --> Data Structure 

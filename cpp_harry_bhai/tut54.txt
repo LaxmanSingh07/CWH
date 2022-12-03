@@ -1,0 +1,10 @@
+    // Polymorphism 
+    // - one name multiple forms 
+    // - eg. function overloading, operator overloading 
+    // - eg. virtual function 
+    /*Polymorphism are of two type 
+    1. Compile time polymorphism------early and starting binding  ( acheived using function overloading and operator overloading )
+
+    2. Run time Polymorphism  ------------>acheived is virtual function (in this type there is no binding )
+
+    */

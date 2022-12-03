@@ -1,0 +1,40 @@
+//CPP tutorial:
+ INHERITANCE IN CPP
+
+/* reuseability is a very important feature of OOOPS
+/* in cpp we can reuse a class and add addtional features to it 
+reusing classes saves times and money 
+Resuing already tested and debugged class will save a lot of effort of developinig and debugging the same thing agina 
+
+
+// what is inheritance in cpp
+1. The concept of reuseability in cpp is  supported using inheritance
+2. we can reuse the properties of an existing class by interiting from it 
+the existing class in called as the Derived class
+Reusing classes saves time and money 
+there are different types of inherit
+
+
+
+forms of inheritance in cpp\
+
+
+..single inheritance
+//a derived class with only one base class 
+
+1. Multiple inheritance 
+// a derived class with more than one base class
+
+2. Hierarchical inheritance
+.. Several derieved classes from a single base class
+
+
+3. Multilevel inheritance
+....deriving a class from already derived class 
+
+
+4. Hybrid inheritance
+
+it is a combination of multiple inheritance and multilevel inheritance 
+a class is derived form two classes as in multiple inheritance 
+however, one of the partent classes is not a base class.

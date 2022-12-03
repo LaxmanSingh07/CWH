@@ -1,0 +1,11 @@
+// Historical Perspective
+The C++ programming language was created by Bjarne Stroustrup and his team at Bell
+Laboratories
+
+
+//properties of cpp programming 
+
+■ universally usable modular programs
+■ efficient, close to the machine programming
+■ portable programs for various platforms
+c++11, c++14,c++17

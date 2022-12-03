@@ -1,0 +1,42 @@
+if else & control structures 
+
+// there are three basic control structures in cpp
+1. sequence structures
+2. selection structures
+3. loop structures
+
+
+
+
+// first sequence structures
+action1:
+action2;
+action3;
+
+
+//seclection structures
+entry 
+then take some decision to select 
+
+
+//loop 
+
+
+
+1. if-else statments 
+if(conditon){
+    body of program 
+
+}
+else{
+    
+}
+
+2. if-else 
+3. switch case 
+    switch(expression )
+    case1:{
+        action;
+    }
+    default:
+    
