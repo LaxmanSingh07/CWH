@@ -36,6 +36,7 @@ public:
              << "Physics " << physics << endl;
     }
 };
+
 class Sports : virtual public Student
 {
 protected:

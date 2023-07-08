@@ -5,3 +5,13 @@
 // for class templte is template
 
  
+
+we don't want to violet the DRY principal 
+don't repeat itself;
+syntax of templates 
+
+template<class T>
+class Vector{
+    T*arr;
+    T can be int, float ,char .......etc
+}

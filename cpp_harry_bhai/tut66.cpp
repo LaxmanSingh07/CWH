@@ -12,12 +12,13 @@ class Laxman
     Laxman(T1 a ,T2 b,T3 c){
         this->a=a;
         this->b=b;
-        this->c=c;
+        this->C=c;
 
     }
     void display(){
         cout<<"The value of a is "<<a<<endl;
         cout<<"The value of a is "<<b<<endl;
+        cout<<"The value of c is "<<C<<endl;
     }
 };
 

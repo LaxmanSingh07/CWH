@@ -11,11 +11,10 @@ why use STL ----> Reuse: Well tested Components
 
 Components of STL ---> 
         1.Containers ---> an object which store data (vector)-------> it uses template Classes 
-
         2.Algorithm ---->sorting,searching
-        3. Iterators ------>object points to an element t
-        handled just like pointers 
-        connect algoritham with Containers
+        3. Iterators ------>object points to an element handled just like pointers 
+           .  . . .  connect algoritham with Containers
+       
         STL IS used because its a good idea not to reinvent the wheel
 
 

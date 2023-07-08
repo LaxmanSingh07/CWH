@@ -18,7 +18,9 @@ int main()
     string content;
     lin>>content;
 
+
     cout<<"The content of this file is "<<content<<endl;
     lin.close();
+    
     return 0;
 }

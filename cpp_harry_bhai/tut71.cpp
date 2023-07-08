@@ -24,10 +24,10 @@ int main()
 
     // ways to create a vector
 
-    vector<int> v1;          // zero length vector
-    vector<char> vec2(4);    // 4- element character vector from vec2
-    vector<char> vec3(vec2); // 4-element character vectro from vec2
-    vector<int> v(6, 3);     // 6-element vector of 3s
+    vector<int> v1; // zero length vector
+    // vector<char> vec2(4);    // 4- element character vector from vec2
+    // vector<char> vec3(vec2); // 4-element character vectro from vec2
+    // vector<int> v(6, 3);     // 6-element vector of 3s
 
     //     for(int i=0;i<size;i++)
     //     {
@@ -40,7 +40,8 @@ int main()
     // // v1.pop_back();
     // vector<int>::iterator iter=v1.begin();
     //     // v1.insert(iter,536);
-    //     v1.insert(iter,6,536); ///----> size copy of 536 will be added in the beginning of the vector
+    //     v1.insert(iter,536); ///----> size copy of 536 will be added in the beginning of the vector
+    // v1.insert(iter,5,536); ///----> it will insert the five copies of
 
     // display(v1);
     // display(vec2);
